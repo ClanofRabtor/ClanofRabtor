@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClanofRabtor.
-- I’m interested in Technologic.
-- I’m currently learning Programming, to be more spezific, the c languages and some other
+- I’m interested in technologie.
+- I’m currently learning Programming, to be more specific, the C languages and some other.
 - I have no clue how git works.
 
 <!---
